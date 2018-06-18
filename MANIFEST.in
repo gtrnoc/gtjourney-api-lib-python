@@ -1,0 +1,1 @@
+recursive-include flask_wso2apim_auth default-public-key.pem
